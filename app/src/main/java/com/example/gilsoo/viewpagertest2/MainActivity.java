@@ -57,7 +57,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
     class CircularPagerAdapter extends FragmentPagerAdapter{
 
         public CircularPagerAdapter(FragmentManager fm) {
