@@ -8,6 +8,7 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
+//How to use the git?
 public class MainActivity extends AppCompatActivity {
     public final String TAG = MainActivity.class.getSimpleName();
     public static final int COUNT = 5;
